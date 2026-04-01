@@ -31,7 +31,7 @@ Projeto em JavaScript com GitHub Pages
 🔗 https://jogo-da-forca-flask.onrender.com  
 Projeto em Flask com deploy em nuvem
 
-## 📚 Em aprendizado
+## 📚 Evoluindo
 
 - Engenharia de Dados
 - dbt
