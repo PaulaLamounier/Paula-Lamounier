@@ -18,15 +18,24 @@ Atualmente construindo minha jornada através de projetos práticos e estudos ap
 
 ## 🧩 Projetos em destaque
 
-🔹 **Estudos de Dados**
-Análises práticas com dados reais, focadas em limpeza, exploração e geração de insights.
+### 📊 Estudos de Dados
+ 
+Exploração de dados com Python e Pandas
 
-🔹 **RAG Data Assistant**
-Projeto em desenvolvimento explorando integração de dados com modelos de linguagem.
 
-🔹 **Jogo do Número Secreto**
-Projeto front-end focado em lógica de programação e interatividade.
+### 🎯 Jogo Número Secreto
+🔗 https://paulalamounier.github.io/jogo-numero-secreto/  
+Projeto em JavaScript com GitHub Pages
 
+🎮 Jogo da Forca
+🔗 https://jogo-da-forca-flask.onrender.com  
+Projeto em Flask com deploy em nuvem
+
+## 📚 Em aprendizado
+
+- Engenharia de Dados
+- dbt
+- IA aplicada (RAG)
 ---
 
 ## 🛠️ Tecnologias e ferramentas
